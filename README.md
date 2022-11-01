@@ -1,4 +1,4 @@
-# /Users/roy/Code/GetSmartDataPublication/Get-SmartDataPublication.ps1
+# Get-SmartDataPublication.ps1
 ## SYNOPSIS
 Download Smart Data Publication File from Archer SaaS Instance
 
