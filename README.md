@@ -96,14 +96,14 @@ None
 Creates files in current folder with the name of the Smart Data Publication file
 
 ## NOTES
-Version:        0.2
-Author:         Roy Verrips
-Creation Date:  2022-11-01
+Version:        0.2<br>
+Author:         Roy Verrips<br>
+Creation Date:  2022-11-01<br>
 Purpose/Change: Public release on Github along with Public release of Archer 6.12 with DPS
 
-Version:        0.1
-Author:         Roy Verrips
-Creation Date:  2022-10-10
+Version:        0.1<br>
+Author:         Roy Verrips<br>
+Creation Date:  2022-10-10<br>
 Purpose/Change: Initial script development
 
 ## EXAMPLES
